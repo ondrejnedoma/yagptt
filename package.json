@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "argparse": "^3.0.2",
+    "exiftool-vendored": "^38.3.0"
+  }
+}
